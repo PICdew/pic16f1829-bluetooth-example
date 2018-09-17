@@ -6,7 +6,7 @@ For a complete tutorial write-up, please see here:
 
 http://mcuhq.com/23/pic-microcontroller-bluetooth-example-with-an-android-phone
 <p align="center">
-<img src="logo.png" width="35%" height="35%" />
+<img src="logo.jpg" width="35%" height="35%" />
 </p>
 
 ## Introduction
